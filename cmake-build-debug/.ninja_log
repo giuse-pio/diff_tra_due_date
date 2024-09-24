@@ -1,0 +1,17 @@
+# ninja log v6
+24	172	7488165478424481	CMakeFiles/diff_tra_due_date.dir/main.c.obj	fda1e70a7ae64aea
+435	851	7488223199408450	diff_tra_due_date.exe	7248b449d465e6b7
+33	433	7488223195391087	CMakeFiles/diff_tra_due_date.dir/2.12.c.obj	e04950a3f4b21905
+66	644	7488924001069501	build.ninja	be8cc3f2f1553e8d
+8	221	7488925135848325	CMakeFiles/diff_tra_due_date.dir/2.12.c.obj	e04950a3f4b21905
+223	596	7488925137997783	diff_tra_due_date.exe	7248b449d465e6b7
+16	167	7488925842922721	CMakeFiles/diff_tra_due_date.dir/2.12.c.obj	e04950a3f4b21905
+168	431	7488925844438737	diff_tra_due_date.exe	7248b449d465e6b7
+16	286	7488927238162846	CMakeFiles/diff_tra_due_date.dir/2.12.c.obj	e04950a3f4b21905
+290	679	7488927240907013	diff_tra_due_date.exe	7248b449d465e6b7
+15	297	7488927736529249	CMakeFiles/diff_tra_due_date.dir/2.12.c.obj	e04950a3f4b21905
+299	574	7488927739371747	diff_tra_due_date.exe	7248b449d465e6b7
+26	266	7488931507379495	CMakeFiles/diff_tra_due_date.dir/2.12.c.obj	e04950a3f4b21905
+268	613	7488931509793387	diff_tra_due_date.exe	7248b449d465e6b7
+11	342	7488933007424107	CMakeFiles/diff_tra_due_date.dir/2.12.c.obj	e04950a3f4b21905
+344	720	7488933010748600	diff_tra_due_date.exe	7248b449d465e6b7
